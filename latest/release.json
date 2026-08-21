@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "distribution": "darkla-direct",
+  "application_id": "app.darkla.mobile",
+  "version_code": 5,
+  "version_name": "1.0.0-beta.5",
+  "signing_certificate_sha256": "4ab9a41515c729b0caddf4fc1fb5172017f381e2ab7a3c83e3403602982622e8",
+  "source_commit": "34f604c9e88ddcf1d875776f5c3ce54fec0d8a55",
+  "artifact": {
+    "filename": "darkla-android-1.0.0-beta.5-5.apk",
+    "size_bytes": 4898877,
+    "sha256": "920f23633108907c4cc764df5c7ea7f01ab9361fa8bf190eb476bbd52ec95999",
+    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/releases/android-v1.0.0-beta.5/darkla-android-1.0.0-beta.5-5.apk"
+  }
+}
