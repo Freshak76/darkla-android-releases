@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "distribution": "darkla-candidate",
+  "distribution": "darkla-direct",
   "application_id": "app.darkla.mobile",
   "version_code": 9,
   "version_name": "1.0.0-beta.9",
@@ -15,6 +15,6 @@
     "filename": "darkla-android-1.0.0-beta.9-9.apk",
     "size_bytes": 5833849,
     "sha256": "4a9a67d5c8732bd86cb39725945429f6b922fd60af3be2035da75a1a40839a08",
-    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/candidates/android-v1.0.0-beta.9/darkla-android-1.0.0-beta.9-9.apk"
+    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/releases/android-v1.0.0-beta.9/darkla-android-1.0.0-beta.9-9.apk"
   }
 }

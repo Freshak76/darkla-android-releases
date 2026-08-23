@@ -2,14 +2,19 @@
   "schema_version": 1,
   "distribution": "darkla-direct",
   "application_id": "app.darkla.mobile",
-  "version_code": 8,
-  "version_name": "1.0.0-beta.8",
+  "version_code": 9,
+  "version_name": "1.0.0-beta.9",
   "signing_certificate_sha256": "4ab9a41515c729b0caddf4fc1fb5172017f381e2ab7a3c83e3403602982622e8",
-  "source_commit": "0267ad7ada73531a4c7fa431352365251833644c",
+  "source_commit": "75ca6d66b06148426c2f6546f7860c87477e662b",
+  "candidate": {
+    "workflow": "Android release candidate",
+    "run_id": 32631388270,
+    "artifact_name": "darkla-android-candidate-75ca6d66b06148426c2f6546f7860c87477e662b"
+  },
   "artifact": {
-    "filename": "darkla-android-1.0.0-beta.8-8.apk",
-    "size_bytes": 5826549,
-    "sha256": "5c8d97f2048c1c815e64f2a598d360439151976fa7b29605bde6f58e2da10335",
-    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/releases/android-v1.0.0-beta.8/darkla-android-1.0.0-beta.8-8.apk"
+    "filename": "darkla-android-1.0.0-beta.9-9.apk",
+    "size_bytes": 5833849,
+    "sha256": "4a9a67d5c8732bd86cb39725945429f6b922fd60af3be2035da75a1a40839a08",
+    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/releases/android-v1.0.0-beta.9/darkla-android-1.0.0-beta.9-9.apk"
   }
 }
