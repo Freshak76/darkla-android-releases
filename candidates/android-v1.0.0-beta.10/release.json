@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "distribution": "darkla-candidate",
+  "application_id": "app.darkla.mobile",
+  "version_code": 10,
+  "version_name": "1.0.0-beta.10",
+  "signing_certificate_sha256": "4ab9a41515c729b0caddf4fc1fb5172017f381e2ab7a3c83e3403602982622e8",
+  "source_commit": "224dfe36783583d2b6b1e4ce0e06a095e8fd6600",
+  "candidate": {
+    "workflow": "Android release candidate",
+    "run_id": 32635590481,
+    "artifact_name": "darkla-android-candidate-224dfe36783583d2b6b1e4ce0e06a095e8fd6600"
+  },
+  "artifact": {
+    "filename": "darkla-android-1.0.0-beta.10-10.apk",
+    "size_bytes": 5838810,
+    "sha256": "524fc63a31b98df2857042486ece17f24cd4f89810d967a502ec5b88bff1c518",
+    "url": "https://raw.githubusercontent.com/Freshak76/darkla-android-releases/main/candidates/android-v1.0.0-beta.10/darkla-android-1.0.0-beta.10-10.apk"
+  }
+}
